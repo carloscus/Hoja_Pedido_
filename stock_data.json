@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-18T23:35:14.259Z",
+  "timestamp": "2026-03-19T02:38:20.954Z",
   "almacen": "VES",
   "count": 1627,
   "data": [
     {
       "sku": "011019",
-      "disponible": 3039
+      "disponible": 2679
     },
     {
       "sku": "011028",
@@ -21,11 +21,11 @@
     },
     {
       "sku": "011262",
-      "disponible": 1120
+      "disponible": 994
     },
     {
       "sku": "011263",
-      "disponible": 5516
+      "disponible": 4976
     },
     {
       "sku": "011364",
@@ -73,7 +73,7 @@
     },
     {
       "sku": "011883",
-      "disponible": 5135
+      "disponible": 5087
     },
     {
       "sku": "011945",
@@ -101,7 +101,7 @@
     },
     {
       "sku": "01240",
-      "disponible": 958
+      "disponible": 520
     },
     {
       "sku": "012434",
@@ -113,7 +113,7 @@
     },
     {
       "sku": "012536",
-      "disponible": 5506
+      "disponible": 5002
     },
     {
       "sku": "012537",
@@ -197,7 +197,7 @@
     },
     {
       "sku": "014268",
-      "disponible": 10492
+      "disponible": 10066
     },
     {
       "sku": "014269",
@@ -233,7 +233,7 @@
     },
     {
       "sku": "014384",
-      "disponible": 8408
+      "disponible": 7982
     },
     {
       "sku": "014411",
@@ -329,7 +329,7 @@
     },
     {
       "sku": "014762",
-      "disponible": 10447
+      "disponible": 10201
     },
     {
       "sku": "014764",
@@ -341,7 +341,7 @@
     },
     {
       "sku": "014775",
-      "disponible": 2913
+      "disponible": 2421
     },
     {
       "sku": "014843",
@@ -377,7 +377,7 @@
     },
     {
       "sku": "014853",
-      "disponible": 3181
+      "disponible": 2647
     },
     {
       "sku": "014854",
@@ -397,7 +397,7 @@
     },
     {
       "sku": "014885",
-      "disponible": 7630
+      "disponible": 7558
     },
     {
       "sku": "014886",
@@ -473,23 +473,23 @@
     },
     {
       "sku": "015056",
-      "disponible": 180
+      "disponible": 0
     },
     {
       "sku": "015058",
-      "disponible": 4600
+      "disponible": 4342
     },
     {
       "sku": "015060",
-      "disponible": 4514
+      "disponible": 3974
     },
     {
       "sku": "015093",
-      "disponible": 73
+      "disponible": 0
     },
     {
       "sku": "015100",
-      "disponible": 4403
+      "disponible": 3941
     },
     {
       "sku": "015101",
@@ -509,11 +509,11 @@
     },
     {
       "sku": "015113",
-      "disponible": 4028
+      "disponible": 3566
     },
     {
       "sku": "015116",
-      "disponible": 1777
+      "disponible": 1555
     },
     {
       "sku": "015119",
@@ -521,7 +521,7 @@
     },
     {
       "sku": "015281",
-      "disponible": 5216
+      "disponible": 4874
     },
     {
       "sku": "015282",
@@ -589,7 +589,7 @@
     },
     {
       "sku": "015931",
-      "disponible": 336
+      "disponible": 54
     },
     {
       "sku": "015933",
@@ -601,11 +601,11 @@
     },
     {
       "sku": "015938",
-      "disponible": 1039
+      "disponible": 949
     },
     {
       "sku": "015939",
-      "disponible": 4886
+      "disponible": 4424
     },
     {
       "sku": "015944",
@@ -657,7 +657,7 @@
     },
     {
       "sku": "015993",
-      "disponible": 3396
+      "disponible": 3114
     },
     {
       "sku": "016004",
@@ -725,7 +725,7 @@
     },
     {
       "sku": "016715",
-      "disponible": 6288
+      "disponible": 6258
     },
     {
       "sku": "016717",
@@ -749,7 +749,7 @@
     },
     {
       "sku": "016725",
-      "disponible": 1968
+      "disponible": 1944
     },
     {
       "sku": "016726",
@@ -765,7 +765,7 @@
     },
     {
       "sku": "016730",
-      "disponible": 3477
+      "disponible": 3348
     },
     {
       "sku": "016733",
@@ -873,11 +873,11 @@
     },
     {
       "sku": "016764",
-      "disponible": 388
+      "disponible": 0
     },
     {
       "sku": "016765",
-      "disponible": 1194
+      "disponible": 828
     },
     {
       "sku": "016766",
@@ -937,7 +937,7 @@
     },
     {
       "sku": "016782",
-      "disponible": 971
+      "disponible": 455
     },
     {
       "sku": "016783",
@@ -957,7 +957,7 @@
     },
     {
       "sku": "016788",
-      "disponible": 2895
+      "disponible": 2826
     },
     {
       "sku": "016789",
@@ -1073,7 +1073,7 @@
     },
     {
       "sku": "02211",
-      "disponible": 199646
+      "disponible": 197646
     },
     {
       "sku": "02213",
@@ -1733,7 +1733,7 @@
     },
     {
       "sku": "11030",
-      "disponible": 13452
+      "disponible": 13451
     },
     {
       "sku": "11034",
@@ -3337,7 +3337,7 @@
     },
     {
       "sku": "72029",
-      "disponible": 71885
+      "disponible": 71883
     },
     {
       "sku": "72030",
@@ -3405,7 +3405,7 @@
     },
     {
       "sku": "75034",
-      "disponible": 20490
+      "disponible": 20488
     },
     {
       "sku": "75037",
@@ -3853,7 +3853,7 @@
     },
     {
       "sku": "76228",
-      "disponible": 12528
+      "disponible": 12527
     },
     {
       "sku": "76229",
@@ -4057,7 +4057,7 @@
     },
     {
       "sku": "77130",
-      "disponible": 82064
+      "disponible": 82062
     },
     {
       "sku": "77131",
@@ -4097,7 +4097,7 @@
     },
     {
       "sku": "77145",
-      "disponible": 174
+      "disponible": 172
     },
     {
       "sku": "77146",
@@ -4149,7 +4149,7 @@
     },
     {
       "sku": "77158",
-      "disponible": 30807
+      "disponible": 30805
     },
     {
       "sku": "77160",
@@ -5017,7 +5017,7 @@
     },
     {
       "sku": "79104",
-      "disponible": 10335
+      "disponible": 10333
     },
     {
       "sku": "79105",
@@ -5101,7 +5101,7 @@
     },
     {
       "sku": "79132",
-      "disponible": 4
+      "disponible": 3
     },
     {
       "sku": "79133",
@@ -5977,7 +5977,7 @@
     },
     {
       "sku": "85379",
-      "disponible": 223
+      "disponible": 221
     },
     {
       "sku": "85380",
@@ -6201,7 +6201,7 @@
     },
     {
       "sku": "85821",
-      "disponible": 336
+      "disponible": 331
     },
     {
       "sku": "85822",
