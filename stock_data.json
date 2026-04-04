@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-04T17:36:39.029Z",
+  "timestamp": "2026-04-04T18:51:41.114Z",
   "almacen": "VES",
   "count": 1597,
   "data": [
@@ -6385,11 +6385,11 @@
     },
     {
       "sku": "MA011",
-      "disponible": 1200
+      "disponible": 0
     },
     {
       "sku": "MA015",
-      "disponible": 3900
+      "disponible": 0
     }
   ]
 }
