@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-05-03T06:29:03.574Z",
+  "timestamp": "2026-05-03T13:22:46.658Z",
   "almacen": "VES",
-  "count": 1601,
+  "count": 1593,
   "data": [
     {
       "sku": "011019",
@@ -2120,24 +2120,8 @@
       "disponible": 1025
     },
     {
-      "sku": "202850",
-      "disponible": 0
-    },
-    {
-      "sku": "202852",
-      "disponible": 0
-    },
-    {
-      "sku": "202853",
-      "disponible": 0
-    },
-    {
       "sku": "202855",
       "disponible": 273
-    },
-    {
-      "sku": "202892",
-      "disponible": 0
     },
     {
       "sku": "202906",
@@ -2306,10 +2290,6 @@
     {
       "sku": "203731",
       "disponible": 153
-    },
-    {
-      "sku": "203748",
-      "disponible": 0
     },
     {
       "sku": "203771",
@@ -2524,10 +2504,6 @@
       "disponible": 0
     },
     {
-      "sku": "204366",
-      "disponible": 0
-    },
-    {
       "sku": "204368",
       "disponible": 200
     },
@@ -2581,10 +2557,6 @@
     },
     {
       "sku": "204437",
-      "disponible": 0
-    },
-    {
-      "sku": "204441",
       "disponible": 0
     },
     {
@@ -5102,10 +5074,6 @@
     {
       "sku": "79152",
       "disponible": 10317
-    },
-    {
-      "sku": "79158",
-      "disponible": 0
     },
     {
       "sku": "79162",
