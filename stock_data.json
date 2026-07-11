@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-07-11T05:43:34.408Z",
+  "timestamp": "2026-07-11T13:37:37.631Z",
   "almacen": "VES",
-  "count": 1671,
+  "count": 1669,
   "data": [
     {
       "sku": "011019",
@@ -17,7 +17,7 @@
     },
     {
       "sku": "011254",
-      "disponible": 874
+      "disponible": 1182
     },
     {
       "sku": "011263",
@@ -81,7 +81,7 @@
     },
     {
       "sku": "012230",
-      "disponible": 20902
+      "disponible": 20901
     },
     {
       "sku": "012232",
@@ -205,7 +205,7 @@
     },
     {
       "sku": "014384",
-      "disponible": 7628
+      "disponible": 7627
     },
     {
       "sku": "014410",
@@ -233,7 +233,7 @@
     },
     {
       "sku": "014479",
-      "disponible": 1
+      "disponible": 0
     },
     {
       "sku": "014480",
@@ -385,7 +385,7 @@
     },
     {
       "sku": "014929",
-      "disponible": 2991
+      "disponible": 2987
     },
     {
       "sku": "014932",
@@ -497,7 +497,7 @@
     },
     {
       "sku": "015281",
-      "disponible": 2519
+      "disponible": 2518
     },
     {
       "sku": "015282",
@@ -1249,7 +1249,7 @@
     },
     {
       "sku": "03338",
-      "disponible": 15487
+      "disponible": 22687
     },
     {
       "sku": "03339",
@@ -1273,7 +1273,7 @@
     },
     {
       "sku": "03384",
-      "disponible": 90
+      "disponible": 9885
     },
     {
       "sku": "03385",
@@ -2640,10 +2640,6 @@
       "disponible": 366
     },
     {
-      "sku": "204556",
-      "disponible": 0
-    },
-    {
       "sku": "20491",
       "disponible": 1876
     },
@@ -3582,10 +3578,6 @@
     {
       "sku": "72037",
       "disponible": 105
-    },
-    {
-      "sku": "72045",
-      "disponible": 0
     },
     {
       "sku": "75022",
@@ -4817,7 +4809,7 @@
     },
     {
       "sku": "78339",
-      "disponible": 49386
+      "disponible": 55386
     },
     {
       "sku": "78340",
@@ -5541,7 +5533,7 @@
     },
     {
       "sku": "80553",
-      "disponible": 1842
+      "disponible": 1841
     },
     {
       "sku": "80558",
